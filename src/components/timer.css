@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Modak');
+.App{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-image: url('../images/303216_thumb.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 602px;
+    background-size: 50%;
+   
+}
+.div-g{
+    display: block; 
+}
+.div1{
+    display: flex;
+    font-family:'Modak';
+    font-size: 100px;
+    font-weight: 300;
+    margin-top: -150px;
+    margin-left: -60px
+}
+.s1{
+ margin: 0 10px;
+ color: #F95759;
+}
+.div2{
+    display:flex;
+    justify-content: space-between;
+    width: 445px;
+    font-family:'Modak';
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: -40px
+}
+.s2{
+   margin: 0 10px 
+}
+
+

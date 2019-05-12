@@ -1,0 +1,26 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  width: 290px;
+  margin-left: 481px;
+  margin-top: 20px
+}
+input[type="text"]{
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #F95759;
+  color: #F95759;
+  box-sizing: border-box;
+  font-family: 'Modak';
+  font-size: 30px;
+  height: 50px;
+  padding: 10px 0px;
+  position: relative;
+ 
+}
+
+  input[type=text]:focus {
+    outline: none; 
+    width: 100%;
+  }
+
